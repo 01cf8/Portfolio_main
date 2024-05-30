@@ -342,13 +342,13 @@ img{
     color: var(--white-color);
     padding: .75rem 2.5rem;
     margin-left: auto;
+    margin-bottom: 40px;
     border-radius: .5rem;
     border: none;
     outline: none;
     font-size: var(--normal-font-size);
     cursor: pointer;
 }
-
 /* ===== FOOTER=====*/
 .footer{
     background-color: var(--dark-color);
